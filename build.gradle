@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+    id 'maven'
+}
+
+apply plugin: 'maven'
+
+group 'tk.zytekaron.jvar'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile 'junit:junit:4.12'
+}
