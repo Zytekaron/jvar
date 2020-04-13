@@ -43,7 +43,7 @@ depencencies {
 <br/>
 
 ## Usage Examples
-[examples/src/main/tk/zytekaron/testing/Main.java](src/test/java/tk/zytekaron/jvar/Main.java)
+[src/test/java/tk/zytekaron/jvar/Main.java](src/test/java/tk/zytekaron/jvar/Main.java)
 
 <br/>
 
