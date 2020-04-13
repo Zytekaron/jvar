@@ -22,5 +22,8 @@ public class Main {
         System.out.println(Maths.map(0.53, 0, 1, 0, 100)); // 53.0
         System.out.println(Maths.roundTo(Math.PI, .01)); // 3.14
         System.out.println(Maths.roundTo(Integer.MAX_VALUE, 100000000)); // 2.1E9
+        
+        Tuple<Integer, String> tuple = new Tuple<>(12, "hi");
+        System.out.println(tuple.getFirst() + ":" + tuple.getSecond()); // 12:hi
     }
 }

@@ -1,5 +1,5 @@
 # jvar
-### Version: 1.2.0
+### Version: 1.2.2
 [![](https://jitpack.io/v/tk.zytekaron/jvar.svg)](https://jitpack.io/#tk.zytekaron/jvar)
 
 This package was created to house various Java utilities.
@@ -16,7 +16,7 @@ repositories {
 ```
 ```groovy
 depencencies {
-    compile 'com.github.zytekaron:jvar:1.2.0'
+    compile 'com.github.zytekaron:jvar:1.2.2'
 }
 ```
 
@@ -35,7 +35,7 @@ depencencies {
     <dependency>
         <groupId>com.github.zytekaron</groupId>
         <artifactId>jvar</artifactId>
-        <version>1.2.0</version>
+        <version>1.2.2</version>
     </dependency>
 </dependencies>
 ```
