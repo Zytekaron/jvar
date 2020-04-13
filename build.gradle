@@ -6,7 +6,7 @@ plugins {
 apply plugin: 'maven'
 
 group 'tk.zytekaron.jvar'
-version '1.1.0'
+version '1.2.0'
 
 sourceCompatibility = 1.8
 
@@ -16,4 +16,5 @@ repositories {
 
 dependencies {
     testCompile 'junit:junit:4.12'
+    compile 'org.jetbrains:annotations:16.0.2'
 }

@@ -1,5 +1,8 @@
 package tk.zytekaron.jvar;
 
+/**
+ * Various utility methods for unsupported math operations
+ */
 public class Maths {
     /**
      * Constrain an int to a certain range
@@ -75,5 +78,9 @@ public class Maths {
             n++;
         }
         return average;
+    }
+
+    public static double roundTo(double number, double to) {
+        return Math.floor(number / to) * to;
     }
 }
