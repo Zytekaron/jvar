@@ -61,7 +61,7 @@ public class Randomizer<E> {
         double countWeight = 0.0;
         for (Item<E> tuple : items) {
             E result = tuple.getResult();
-            Double weight = tuple.getWeight();
+            double weight = tuple.getWeight();
             countWeight += weight;
             if (countWeight >= r) {
                 return result;
