@@ -1,7 +1,7 @@
-package tk.zytekaron.jvar.tests;
+package com.zytekaron.jvar.tests;
 
 import org.junit.Test;
-import tk.zytekaron.jvar.DotEnv;
+import com.zytekaron.jvar.DotEnv;
 
 import java.util.Map;
 

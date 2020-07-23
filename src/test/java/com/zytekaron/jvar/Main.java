@@ -1,6 +1,6 @@
-package tk.zytekaron.jvar;
+package com.zytekaron.jvar;
 
-import tk.zytekaron.jvar.randomizer.Randomizer;
+import com.zytekaron.jvar.randomizer.Randomizer;
 
 import java.util.Map;
 

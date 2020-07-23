@@ -1,4 +1,4 @@
-package tk.zytekaron.jvar;
+package com.zytekaron.jvar;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

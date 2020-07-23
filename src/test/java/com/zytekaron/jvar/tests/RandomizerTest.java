@@ -1,10 +1,10 @@
-package tk.zytekaron.jvar.tests;
+package com.zytekaron.jvar.tests;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-import tk.zytekaron.jvar.randomizer.Item;
-import tk.zytekaron.jvar.randomizer.Randomizer;
+import com.zytekaron.jvar.randomizer.Item;
+import com.zytekaron.jvar.randomizer.Randomizer;
 
 
 import java.util.Arrays;

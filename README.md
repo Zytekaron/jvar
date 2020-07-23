@@ -1,6 +1,7 @@
 # jvar
-### Version: 1.2.2
-[![](https://jitpack.io/v/tk.zytekaron/jvar.svg)](https://jitpack.io/#tk.zytekaron/jvar)
+### Version: 1.3.0
+##### base package renamed to `com.zytekaron` as of 1.3.0
+[![](https://jitpack.io/v/com.zytekaron/jvar.svg)](https://jitpack.io/#com.zytekaron/jvar)
 
 This package was created to house various Java utilities.
 
@@ -16,7 +17,7 @@ repositories {
 ```
 ```groovy
 depencencies {
-    compile 'com.github.zytekaron:jvar:1.2.2'
+    compile 'com.zytekaron:jvar:1.3.0'
 }
 ```
 
@@ -33,9 +34,9 @@ depencencies {
 ```xml
 <dependencies>
     <dependency>
-        <groupId>com.github.zytekaron</groupId>
+        <groupId>com.zytekaron</groupId>
         <artifactId>jvar</artifactId>
-        <version>1.2.2</version>
+        <version>1.3.0</version>
     </dependency>
 </dependencies>
 ```
@@ -43,7 +44,7 @@ depencencies {
 <br/>
 
 ## Usage Examples
-[examples/src/main/tk/zytekaron/testing/Main.java](src/test/java/tk/zytekaron/jvar/Main.java)
+[examples/src/main/com/zytekaron/testing/Main.java](src/test/java/com/zytekaron/jvar/Main.java)
 
 <br/>
 

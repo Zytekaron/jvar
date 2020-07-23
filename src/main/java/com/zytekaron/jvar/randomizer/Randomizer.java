@@ -1,4 +1,4 @@
-package tk.zytekaron.jvar.randomizer;
+package com.zytekaron.jvar.randomizer;
 
 import org.jetbrains.annotations.NotNull;
 

@@ -5,8 +5,8 @@ plugins {
 
 apply plugin: 'maven'
 
-group 'tk.zytekaron.jvar'
-version '1.2.2'
+group 'com.zytekaron.jvar'
+version '1.3.o'
 
 repositories {
     mavenCentral()

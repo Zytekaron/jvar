@@ -1,4 +1,4 @@
-package tk.zytekaron.jvar;
+package com.zytekaron.jvar;
 
 /**
  * Various utility methods for unsupported math operations

@@ -1,7 +1,7 @@
-package tk.zytekaron.jvar.tests;
+package com.zytekaron.jvar.tests;
 
 import org.junit.Test;
-import tk.zytekaron.jvar.Maths;
+import com.zytekaron.jvar.Maths;
 
 import static org.junit.Assert.assertEquals;
 

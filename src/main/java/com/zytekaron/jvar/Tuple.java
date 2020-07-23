@@ -1,4 +1,4 @@
-package tk.zytekaron.jvar;
+package com.zytekaron.jvar;
 
 public class Tuple<T, U> {
     private T first;
